@@ -1,2 +1,2 @@
 # -iamplgf
-" I have no time for your negative bullshite"
+" I have no time for your negative bullshit"
